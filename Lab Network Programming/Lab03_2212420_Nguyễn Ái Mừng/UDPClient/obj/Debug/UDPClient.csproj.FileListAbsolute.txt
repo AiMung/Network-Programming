@@ -1,0 +1,7 @@
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPClient\bin\Debug\UDPClient.exe.config
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPClient\bin\Debug\UDPClient.exe
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPClient\bin\Debug\UDPClient.pdb
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPClient\obj\Debug\UDPClient.csproj.AssemblyReference.cache
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPClient\obj\Debug\UDPClient.exe
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPClient\obj\Debug\UDPClient.pdb

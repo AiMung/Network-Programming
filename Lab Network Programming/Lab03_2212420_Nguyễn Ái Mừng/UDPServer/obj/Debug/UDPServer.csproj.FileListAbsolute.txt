@@ -1,0 +1,14 @@
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPServer\bin\Debug\UDPServer.exe.config
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPServer\bin\Debug\UDPServer.exe
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPServer\bin\Debug\UDPServer.pdb
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPServer\obj\Debug\UDPServer.csproj.AssemblyReference.cache
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPServer\obj\Debug\UDPServer.exe
+E:\VS2022\Project\Lập trình mạng\2000005_LTM_Lab03\UDPServer\obj\Debug\UDPServer.pdb
+C:\Users\ADMIN\Downloads\2000005_LTM_Lab03\UDPServer\bin\Debug\UDPServer.exe.config
+C:\Users\ADMIN\Downloads\2000005_LTM_Lab03\UDPServer\bin\Debug\UDPServer.exe
+C:\Users\ADMIN\Downloads\2000005_LTM_Lab03\UDPServer\bin\Debug\UDPServer.pdb
+C:\Users\ADMIN\Downloads\2000005_LTM_Lab03\UDPServer\obj\Debug\UDPServer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\2000005_LTM_Lab03\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\2000005_LTM_Lab03\UDPServer\obj\Debug\UDPServer.exe
+C:\Users\ADMIN\Downloads\2000005_LTM_Lab03\UDPServer\obj\Debug\UDPServer.pdb
