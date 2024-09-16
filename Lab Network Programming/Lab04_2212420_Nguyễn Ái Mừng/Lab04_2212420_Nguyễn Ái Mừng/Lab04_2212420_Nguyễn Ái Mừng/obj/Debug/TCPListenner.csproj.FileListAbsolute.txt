@@ -1,0 +1,7 @@
+G:\học tập\TCPListenner\Lab04_2212420_Nguyễn Ái Mừng\bin\Debug\Lab04_2212420_Nguyễn Ái Mừng.exe.config
+G:\học tập\TCPListenner\Lab04_2212420_Nguyễn Ái Mừng\bin\Debug\Lab04_2212420_Nguyễn Ái Mừng.exe
+G:\học tập\TCPListenner\Lab04_2212420_Nguyễn Ái Mừng\bin\Debug\Lab04_2212420_Nguyễn Ái Mừng.pdb
+G:\học tập\TCPListenner\Lab04_2212420_Nguyễn Ái Mừng\obj\Debug\TCPListenner.csproj.AssemblyReference.cache
+G:\học tập\TCPListenner\Lab04_2212420_Nguyễn Ái Mừng\obj\Debug\TCPListenner.csproj.CoreCompileInputs.cache
+G:\học tập\TCPListenner\Lab04_2212420_Nguyễn Ái Mừng\obj\Debug\Lab04_2212420_Nguyễn Ái Mừng.exe
+G:\học tập\TCPListenner\Lab04_2212420_Nguyễn Ái Mừng\obj\Debug\Lab04_2212420_Nguyễn Ái Mừng.pdb

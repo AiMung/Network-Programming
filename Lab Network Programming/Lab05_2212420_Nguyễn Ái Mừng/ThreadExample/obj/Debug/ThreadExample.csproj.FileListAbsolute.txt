@@ -1,0 +1,7 @@
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\ThreadExample\bin\Debug\ThreadExample.exe.config
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\ThreadExample\bin\Debug\ThreadExample.exe
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\ThreadExample\bin\Debug\ThreadExample.pdb
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\ThreadExample\obj\Debug\ThreadExample.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\ThreadExample\obj\Debug\ThreadExample.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\ThreadExample\obj\Debug\ThreadExample.exe
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\ThreadExample\obj\Debug\ThreadExample.pdb

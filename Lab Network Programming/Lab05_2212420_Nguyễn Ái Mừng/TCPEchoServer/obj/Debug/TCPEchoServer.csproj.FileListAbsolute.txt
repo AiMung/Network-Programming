@@ -1,0 +1,7 @@
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\TCPEchoServer\obj\Debug\TCPEchoServer.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\TCPEchoServer\obj\Debug\TCPEchoServer.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\PC602\source\repos\Lab05_2212420_Nguyễn Ái Mừng\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
