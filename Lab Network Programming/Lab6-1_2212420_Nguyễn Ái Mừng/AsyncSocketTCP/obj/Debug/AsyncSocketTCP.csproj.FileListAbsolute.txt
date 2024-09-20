@@ -1,0 +1,6 @@
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb

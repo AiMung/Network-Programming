@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\obj\Debug\AsyncSocketServer.FrmServer.resources
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\obj\Debug\AsyncSocketServer.Properties.Resources.resources
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+C:\Users\PC602\source\repos\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb
