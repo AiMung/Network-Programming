@@ -9,21 +9,42 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net;
 using System.Net.Sockets;
+using AsyncSocketTCP;
 
 namespace AsyncSocketServer
 {
     public partial class FrmServer : Form
     {
-      
+        AsyncSocketTCPServer mServer;
+
         public FrmServer()
         {
             InitializeComponent();
+            mServer = new AsyncSocketTCPServer();
+
             
         }
 
         private void btnAccept_Click(object sender, EventArgs e)
         {
             btnAccept.BackColor = Color.Green;
+            mServer.StartListenningForIncomingConnection();
+        }
+
+        private void btnSendAll_Click(object sender, EventArgs e)
+        {
+            mServer.SendToAll(txtMessage.Text.Trim());
+        }
+
+        private void btnStop_Click(object sender, EventArgs e)
+        {
+            mServer.StopServer();
+
+        }
+
+        private void FrmServer_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            mServer.StopServer();
         }
     }
 }

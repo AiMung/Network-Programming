@@ -32,7 +32,7 @@
             this.btnAccept = new System.Windows.Forms.Button();
             this.btnStop = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtMessage = new System.Windows.Forms.TextBox();
             this.btnSendAll = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -58,6 +58,7 @@
             this.btnStop.TabIndex = 0;
             this.btnStop.Text = "Stop Server";
             this.btnStop.UseVisualStyleBackColor = false;
+            this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
             // label1
             // 
@@ -69,15 +70,15 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "TEXT:";
             // 
-            // textBox1
+            // txtMessage
             // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(37, 109);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(440, 48);
-            this.textBox1.TabIndex = 2;
-            this.textBox1.Text = "BroadCast message to all client";
+            this.txtMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtMessage.Location = new System.Drawing.Point(37, 109);
+            this.txtMessage.Multiline = true;
+            this.txtMessage.Name = "txtMessage";
+            this.txtMessage.Size = new System.Drawing.Size(440, 48);
+            this.txtMessage.TabIndex = 2;
+            this.txtMessage.Text = "BroadCast message to all client";
             // 
             // btnSendAll
             // 
@@ -91,6 +92,7 @@
             this.btnSendAll.Text = "Send All";
             this.btnSendAll.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnSendAll.UseVisualStyleBackColor = true;
+            this.btnSendAll.Click += new System.EventHandler(this.btnSendAll_Click);
             // 
             // FrmServer
             // 
@@ -98,12 +100,13 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(499, 251);
             this.Controls.Add(this.btnSendAll);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtMessage);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnStop);
             this.Controls.Add(this.btnAccept);
             this.Name = "FrmServer";
             this.Text = "Server";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmServer_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -114,7 +117,7 @@
         private System.Windows.Forms.Button btnAccept;
         private System.Windows.Forms.Button btnStop;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtMessage;
         private System.Windows.Forms.Button btnSendAll;
     }
 }
