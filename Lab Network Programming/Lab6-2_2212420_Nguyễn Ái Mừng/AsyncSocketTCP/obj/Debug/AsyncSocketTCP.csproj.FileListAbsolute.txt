@@ -9,3 +9,9 @@ C:\Users\CICT\Desktop\Network-Programming\Lab Network Programming\Lab6-1_2212420
 C:\Users\CICT\Desktop\Network-Programming\Lab Network Programming\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
 C:\Users\CICT\Desktop\Network-Programming\Lab Network Programming\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
 C:\Users\CICT\Desktop\Network-Programming\Lab Network Programming\Lab6-1_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb
+C:\Users\PC602\Desktop\Network-Programming\Lab Network Programming\Lab6-2_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+C:\Users\PC602\Desktop\Network-Programming\Lab Network Programming\Lab6-2_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\PC602\Desktop\Network-Programming\Lab Network Programming\Lab6-2_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.AssemblyReference.cache
+C:\Users\PC602\Desktop\Network-Programming\Lab Network Programming\Lab6-2_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Desktop\Network-Programming\Lab Network Programming\Lab6-2_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+C:\Users\PC602\Desktop\Network-Programming\Lab Network Programming\Lab6-2_2212420_Nguyễn Ái Mừng\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb

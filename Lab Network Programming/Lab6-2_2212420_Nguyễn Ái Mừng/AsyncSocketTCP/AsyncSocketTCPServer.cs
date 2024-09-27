@@ -12,6 +12,15 @@ namespace AsyncSocketTCP
 {
     public class AsyncSocketTCPServer
     {//Khai báo tên lớp
+        public EventHandler<ClientConnectedEventArgs> ClientConnectedEvent;
+         protected virtual void OnClientConnectedEvent(ClientConnectedEventArgs e)
+        {
+            EventHandler<ClientConnectedEventArgs> handler=ClientConnectedEvent;
+            if(handler != null )
+            {
+                handler(this, e);
+            }
+        }
         IPAddress mIP;
         int mPort;
         TcpListener mTcpListener;
@@ -24,6 +33,7 @@ namespace AsyncSocketTCP
             mClient = new List<TcpClient>();
         }
         //Phương thức lắng nghe, nhận kết nối từ Client, thêm vào danh sách
+        //Kích hoạt sự kiện khi có client kết nối thành công
         public async void StartListenningForIncomingConnection(IPAddress ipaddr = null, int port = 9001)
         {
             if (ipaddr == null)
@@ -57,6 +67,9 @@ namespace AsyncSocketTCP
             {
                 System.Diagnostics.Debug.WriteLine(excp.ToString());
             }
+            var returnedvyAccept=await mTcpListener.AcceptTcpClientAsync();
+            mClient.Add(returnedvyAccept);
+            OnClientConnectedEvent(new ClientConnectedEventArgs(returnedvyAccept.Client.RemoteEndPoint.ToString()));
 
 
         }
@@ -148,6 +161,9 @@ namespace AsyncSocketTCP
 
         
         }
+      
+       //Bổ sung phương thức kích hoạt sự kiện
+      
     }
     
 }

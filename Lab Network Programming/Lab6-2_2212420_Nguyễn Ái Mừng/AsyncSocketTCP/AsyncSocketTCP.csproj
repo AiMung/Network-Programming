@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="AsyncSocketTCPClient.cs" />
     <Compile Include="AsyncSocketTCPServer.cs" />
+    <Compile Include="ClientConnectedEventArgs.cs" />
+    <Compile Include="CustomEventArgs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

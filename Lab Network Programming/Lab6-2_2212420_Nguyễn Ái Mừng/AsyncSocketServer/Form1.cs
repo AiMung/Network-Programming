@@ -21,6 +21,7 @@ namespace AsyncSocketServer
         {
             InitializeComponent();
             mServer = new AsyncSocketTCPServer();
+            mServer.ClientConnectedEvent += HandleClientConnected;
 
             
         }
@@ -45,6 +46,10 @@ namespace AsyncSocketServer
         private void FrmServer_FormClosing(object sender, FormClosingEventArgs e)
         {
             mServer.StopServer();
+        }
+        void HandleClientConnected(object sender, ClientConnectedEventArgs e)
+        {
+            txtClientInfo.AppendText(string.Format("{0} - New Client Connected - {1}\r\n", DateTime.Now, e.NewClient));
         }
     }
 }
